@@ -1,0 +1,16 @@
+
+.botão{
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 100px;
+    height: 50px;
+    border: 10px;
+    border-radius: 5px;
+    background-color: rebeccapurple;
+    cursor: pointer;
+    color: white;
+}
+
+.botão:hover{
+    background-color: seagreen;
+}
